@@ -1,13 +1,19 @@
 /* Add CSS Styling */
 
+.button1,
+.Button2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+}
+
+
+
 .button1{
     background-color: #000f00;
     color: #ffffff;
-    font-size: 36px;
 }
 
 .Button2{
     background-color: rgb(255, 255, 0);
     color: #000f00;
-    font-size: 36px;
 }
