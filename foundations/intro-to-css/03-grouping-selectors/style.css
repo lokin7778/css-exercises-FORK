@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+
+.button1{
+    background-color: #000f00;
+    color: #ffffff;
+    font-size: 36px;
+}
