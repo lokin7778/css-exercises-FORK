@@ -20,14 +20,13 @@ body {
   font-size: 20px;
 }
 
-
 .confirm {
   background: green;
   color: white;
   font-weight: bold;
 } 
 
-.child {
+.text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
