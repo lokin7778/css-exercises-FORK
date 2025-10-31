@@ -25,7 +25,12 @@ img {
   background: #eee;
 }
 
-.title{
+.title {
   display: flex;
   justify-content:center;
+}
+
+.images {
+  display: flex;
+  justify-content:space-evenly;
 }
