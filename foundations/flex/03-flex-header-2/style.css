@@ -49,15 +49,22 @@ ul {
 
 .header{
   display: flex;
-  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
 }
 
-.logo{
-  padding: 8px; 
-}
-
-.links {
+ul {
   display: flex;
-  gap: 12px;
-  justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
+
+.left, .right{
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+
+
