@@ -53,5 +53,11 @@ ul {
 }
 
 .logo{
-  padding: 8px;
+  padding: 8px; 
+}
+
+.links {
+  display: flex;
+  gap: 12px;
+  justify-content: flex-start;
 }
