@@ -33,7 +33,7 @@ input {
 .header .left-links{
   list-style-type: none;
   display: flex;
-  gap: 8px;
+  gap: 10px;
   padding-left: 12px;
 }
 
@@ -41,6 +41,21 @@ input {
 .header .right-links{
   list-style-type: none;
   display: flex;
-  gap: 8px;
+  gap: 10px;
   padding-right: 12px;
+}
+
+.left-links a{
+  text-decoration: none;
+  color: gray;
+}
+
+.right-links a{
+  text-decoration: none;
+  color: gray;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
 }
