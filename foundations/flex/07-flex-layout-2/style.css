@@ -30,10 +30,12 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  flex: 1;
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  flex: 1;
 }
