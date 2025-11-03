@@ -5,6 +5,7 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  text-align: center;
 }
 
 img {
@@ -58,6 +59,7 @@ input {
 .footer{
   display: flex;
   justify-content: space-between;
+  background-color: rgb(224, 221, 221);
 }
 
 .footer .left-links{
@@ -71,5 +73,5 @@ input {
   list-style-type: none;
   display: flex;
   gap: 16px;
-  padding-right: 12px ;
+  padding-right: 12px;
 }
