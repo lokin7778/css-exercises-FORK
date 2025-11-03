@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
-  height: 100vh;
+  height: 100%;
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
@@ -79,3 +79,4 @@ input {
   text-align: center;
   padding-top: 160px;
 }
+
